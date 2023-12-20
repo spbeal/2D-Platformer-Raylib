@@ -13,7 +13,7 @@
 
 ## Project Created & Maintained By
 
-### Samuel Beal
+### Samuel Beal, Riley Provo
 
 [![GitHub followers](https://img.shields.io/github/followers/spbeal.svg?style=social&label=Follow)](https://github.com/spbeal/)
 
