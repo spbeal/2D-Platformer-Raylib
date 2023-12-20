@@ -18,7 +18,7 @@
 
 </div>
 
-### View a [live demo here.](https://sambeal.dev)
+### Live Demo coming soon
 
 ## Project Created & Maintained By
 
