@@ -8,9 +8,9 @@
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/spbeal/2D-Platformer-Raylib?style=flat">
 
-<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/spbeal/2D-Platformer-Raylib?style=flat&color=success">
+<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/spbeal/2D-Platformer-Raylib?style=flat">
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spbeal/2D-Platformer-Raylib?style=flat&color=yellow">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/spbeal/2D-Platformer-Raylib?style=flat">
 
 <img alt="Github Repo Sponsors" src="https://img.shields.io/github/sponsors/spbeal?style=flat&color=blueviolet">
 
