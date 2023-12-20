@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilemap-example-a.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "tilemap-example-a.tmx": {
+            "scale": 0.8363247863247862,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.28359734287176,
+                "y": 236.15227388860507
+            }
+        },
+        "tilemap-example-b.tmx": {
+            "scale": 0.8363247863247862,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 233.16300459887586,
+                "y": 135.7128257537047
+            }
+        },
+        "tileset-characters.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "tilemap-example-a.tmx",
+        "tilemap-example-b.tmx",
+        "tileset-characters.tsx",
+        "tileset-tiles.tsx"
+    ],
+    "project": "project 1.tiled-project",
+    "recentFiles": [
+        "tileset-tiles.tsx",
+        "tileset-characters.tsx",
+        "tilemap-example-b.tmx",
+        "tilemap-example-a.tmx"
+    ]
+}
