@@ -1,4 +1,4 @@
-# 2D Platformer using Raylib and Kenny2L
+# 2D Platformer using Raylib and kenny.nl
 
 ![image](https://github.com/spbeal/2D-Platformer-Raylib/blob/main/resources/2D_Platformer_QjdAii7a0L.png)
 
