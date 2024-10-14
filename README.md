@@ -9,8 +9,6 @@
 
 </div>
 
-### Live Demo coming soon
-
 ## Project Created & Maintained By
 
 ### Samuel Beal, Riley Provo
